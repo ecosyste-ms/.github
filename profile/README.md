@@ -3,7 +3,7 @@
 
 Ecosystems will combine data from package registries, software repositories, vulnerability databases, containers, and operating systems. In doing so we will gain a more complete picture of open source, enabling us to identify keystone software ecosystems where code, and their communities, are considered critical, digital infrastrcuture. 
 
-To find out more about what we're building check out our [roadmap](https://github.com/ecosyste-ms/roadmap) and [initial proposal](https://github.com/ecosyste-ms/.github/files/8786150/Ecosystems.Proposal.pdf). 
+To find out more about what we're building check out our [roadmap](https://github.com/ecosyste-ms/roadmap) and [initial proposal](https://github.com/ecosyste-ms/.github/files/8799344/Ecosystems.Proposal.2.pdf). 
 
 ## Get involved
 

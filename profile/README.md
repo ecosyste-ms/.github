@@ -9,7 +9,7 @@ To find out more about what we're building check out our [roadmap](https://githu
 ## Get involved
 
 ### Support our work
-Ecosystems is a project of Open Source Collective, a non-profit organization that is working to create a more sustainable future for open source software. Open Source Collective and Plaintext Group at Schmidt Futures are providing financial support to the project throughout 2022. If you would like to support our work you can do so using credit or debit cards, bank transfers, or PayPal on [Open Collective](https://opencollective.com/ecosystems). If you would like to contribute on behalf of an organisation and require and invoice or contract, talk to the team at hello@oscollective.com.
+Ecosystems is a project of Open Source Collective, a non-profit organization that is working to create a more sustainable future for open source software. Open Source Collective and Plaintext Group at Schmidt Futures are providing financial support to the project throughout 2022 and 2023. If you would like to support our work you can do so using credit or debit cards, bank transfers, or PayPal on [Open Collective](https://opencollective.com/ecosystems). If you would like to contribute on behalf of an organisation and require and invoice or contract, talk to the team at hello@oscollective.com.
 
 ### Work with us
 Our financial support will provide the framework to develop and launch Ecosystems in 2022, and to work in partnership with a small number of our intended users to co-design and exemplify the utility of the services we provide. If you’re interested in using Ecosystems: get in touch with the team at hello@ecosyste.ms.

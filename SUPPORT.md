@@ -2,7 +2,7 @@
 
 If you're looking for support for Ecosyste.ms there are a lot of options, check out:
 
-* Bug Tracker &mdash; https://github.com/ecosystems/documentation/issues
+* Bug Tracker &mdash; https://github.com/ecosyste-ms/documentation/issues
 * Documentation &mdash; https://ecosyste.ms/
 * Email &mdash; support@ecosyste.ms
 * Mastodon &mdash; https://mastodon.social/@ecosystems

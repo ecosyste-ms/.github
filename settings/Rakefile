@@ -1,0 +1,16 @@
+
+SYNC_CMD = "bundle exec octorule"
+SYNC_ARGS =  "-o ecosyste-ms -t #{ENV.fetch("GITHUB_TOKEN")} --no-fork"
+DRY_RUN = "-d"
+
+task default: :sync
+
+task :unsafe do
+	DRY_RUN=""
+end
+
+task apply: [:unsafe, :sync]
+
+task :sync do
+  exec "#{SYNC_CMD} #{SYNC_ARGS} -s common.json #{DRY_RUN}"
+end

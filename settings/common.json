@@ -1,0 +1,17 @@
+{
+	"repository": {
+		"has_issues": true
+	},
+	"branch_protection": {
+		"main": {
+			"enforce_admins": false,
+			"allow_force_pushes": false,
+			"allow_deletions": false,
+			"required_pull_request_reviews": {
+				"required_approving_review_count": 0
+			},
+			"required_status_checks": null,
+			"restrictions": null
+		}
+	}
+}

@@ -1,6 +1,8 @@
 {
 	"repository": {
-		"has_issues": true
+		"has_issues": true,
+		"has_wiki": false,
+		"has_projects": false
 	},
 	"branch_protection": {
 		"main": {

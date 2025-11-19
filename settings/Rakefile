@@ -11,6 +11,14 @@ end
 
 task apply: [:unsafe, :sync]
 
-task :sync do
-  exec "#{SYNC_CMD} #{SYNC_ARGS} -s common.json #{DRY_RUN}"
+task :sync, [:only] do |_task, args|
+
+  options = {}
+  opts = OptionParser.new
+  opts.banner = "Usage: rake [options]"
+  opts.on("-o", "--only ARG", String) { |pattern| options[:only] = "-n #{pattern}" }
+  args = opts.order!(ARGV) {}
+  opts.parse!(args)
+
+  exec "#{SYNC_CMD} #{SYNC_ARGS} -s common.json #{DRY_RUN} #{options[:only]}"
 end

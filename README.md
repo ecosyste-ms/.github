@@ -13,6 +13,8 @@ rake # Performs a dry run
 rake apply # Applies changes
 ```
 
+You can specify a repo name pattern to apply changes with `rake -- --only=reponame`
+
 `GITHUB_TOKEN` should be a GitHub Personal Access Token with `repo` and `admin:org` scopes.
 
 Options:

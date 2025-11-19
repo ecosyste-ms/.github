@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/ecosyste-ms/octorule.git
-  revision: 7b160602a9c2c71d9b922358d8760d78bc6b5ba6
-  specs:
-    octorule (0.1.0)
-      base64 (~> 0.2)
-      octokit (~> 9.0)
-
 GEM
   remote: https://gem.coop/
   specs:
@@ -25,6 +17,9 @@ GEM
     octokit (9.2.0)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
+    octorule (0.1.0)
+      base64 (~> 0.2)
+      octokit (~> 9.0)
     public_suffix (6.0.2)
     sawyer (0.9.3)
       addressable (>= 2.3.5)
@@ -36,7 +31,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  octorule!
+  octorule
 
 BUNDLED WITH
    2.7.2

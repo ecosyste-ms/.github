@@ -4,7 +4,10 @@
 		"has_wiki": false,
 		"has_projects": false,
 		"delete_branch_on_merge": true,
-		"allow_auto_merge": true
+		"allow_auto_merge": true,
+		"allow_rebase_merge": false,
+		"allow_squash_merge": false,
+		"allow_merge_commit": true
 	},
 	"branch_protection": {
 		"main": {

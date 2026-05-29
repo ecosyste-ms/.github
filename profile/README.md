@@ -4,7 +4,7 @@
 
 ecosyste.ms combines data from package registries, software repositories, vulnerability databases, containers, and operating systems. This comprehensive view helps identify critical software ecosystems that form the backbone of our digital infrastructure.
 
-To find out more about what we're building, check out our [roadmap](https://github.com/orgs/ecosyste-ms/projects/10).
+To find out more about what we're building, check out our [roadmap](https://github.com/ecosyste-ms/roadmap).
 
 ## Get Involved
 
